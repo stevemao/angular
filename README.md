@@ -23,7 +23,7 @@ applications:
 
 ## Setup & Install Angular 2
 
-Follow the instructions given on the [Angular download page][download].
+Follow the instructions given on the [Angular download page][download]. This fork is tested with [BrowserStack](https://www.browserstack.com/).
 
 
 ## Want to help?
